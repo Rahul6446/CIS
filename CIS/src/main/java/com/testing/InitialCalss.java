@@ -1,7 +1,8 @@
 package com.testing;
 
 public class InitialCalss {
-public static void main(String args0[]){
+public void  main1(){
+	System.out.println("Rahul");
 	System.out.println("Rahul");
 }
 }
